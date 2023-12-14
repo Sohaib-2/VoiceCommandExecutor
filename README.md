@@ -1,4 +1,4 @@
-# Project: VoiceCommandExecutor - OpenAI & Langchain Powered Voice Assistant
+# VoiceCommandExecutor - OpenAI & Langchain Powered Voice Assistant
 
 **Welcome to VoiceCommandExecutor!** ️🪄
 
