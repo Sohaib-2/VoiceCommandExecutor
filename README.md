@@ -6,7 +6,7 @@ Tired of typing commands? ⌨️ Say goodbye to repetitive tasks and hello to a 
 
 ## What is VoiceCommandExecutor?
 
-CodeVox is your personal AI assistant, powered by the magic of OpenAI and Langchain. It understands your voice commands and uses its Pythonic wizardry to get things done, instantly and hands-free! ✨
+VoiceCommandExecutor is your personal AI assistant, powered by the magic of OpenAI and Langchain. It understands your voice commands and uses its Pythonic wizardry to get things done, instantly and hands-free! ✨
 
 ## What can VoiceCommandExecutor do?
 
