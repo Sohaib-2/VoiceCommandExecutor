@@ -4,3 +4,4 @@ sounddevice
 langchain_experimental
 numpy
 scipy
+playsound==1.2.2
