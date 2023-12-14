@@ -19,8 +19,7 @@ The possibilities are endless! Just speak your requests and watch the magic:
 ## Get Started in 3 Easy Steps:
 
 1. Clone this repository. 🪄
-2. Install the required dependencies. ⚙️:
-   pip install -r requirements.txt
+2. Install the required dependencies.
 4. Run the program and start speaking your commands! ️
 
 ## Contribute to the Magic!
